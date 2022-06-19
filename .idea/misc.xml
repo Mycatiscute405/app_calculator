@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OwnProject/app/app_calculator/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1205" />
+        <entry key="..\:/OwnProject/app/app_calculator/app/src/main/res/layout/activity_main.xml" value="0.25462962962962965" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_14" project-jdk-name="14" project-jdk-type="JavaSDK" />
+</project>
